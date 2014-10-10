@@ -1,0 +1,800 @@
+<table border="1" width="800">
+	<tbody>
+		<tr>
+			<td width="500">
+				<strong>OUR DATA</strong></td>
+			<td class="rtecenter" width="50">
+				<strong>DATA</strong></td>
+			<td class="rtecenter" width="50">
+				<strong>METADATA</strong></td>
+			<td class="rtecenter" width="50">
+				<strong>DOCS</strong></td>
+		</tr>
+		<tr>
+			<td width="500">
+				AidData 3.0</td>
+			<td class="rtecenter" width="50">
+				<a href="http://aiddata.org" target="_blank">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/sites/default/files/USAID_AidData_metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Baseline Study of Title II Development Food Assistance Programs in Uganda</td>
+			<td class="rtecenter" width="50">
+				<a href="/developer/FFPBaselineStudies">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FFP-Uganda_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Baseline Study of Title II Development Food Assistance Programs in Niger</td>
+			<td class="rtecenter" width="50">
+				<a href="/developer/FFPBaselineStudies">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FFP-Niger-Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Baseline Study of Title II Development Food Assistance Programs in Guatemala</td>
+			<td class="rtecenter" width="50">
+				<a href="/developer/FFPBaselineStudies">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FFP-Guatemala_Metadata.json"><u>JSON</u></a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Demographic and Health Surveys STATcompiler</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.measuredhs.com/Data/">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_DHS-StatCompiler__Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Development Credit Authority Guarantee Data: Loan Transactions -<br />
+				<a href="/sites/default/files/dictionary-transactions.pdf" style="font-size: 10px;">Dictionary</a>&nbsp;<span 
+
+style="font-size: 10px;">[pdf 249kb]</span></td>
+			<td class="rtecenter" width="50">
+				<a 
+
+href="/sites/default/files/USAID_Development_Credit_Authority_Guarantee_Data__Loan_Transactions.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_DCA-Loan-Transactions_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://explore.data.gov/resource/7swc-ittd.json">API</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				Development Credit Authority (DCA) Data: Guarantee Utilization and Claims -<br />
+				<a href="/sites/default/files/Dictionary-utilization-loans.pdf" style="font-size: 10px;">Dictionary</a>&nbsp;<span 
+
+style="font-size: 10px;">[pdf 209kb]</span></td>
+			<td class="rtecenter" width="50">
+				<a href="/sites/default/files/Utilization_and_Claims.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_DCA-Utilizations-Claim-Data_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://labs.data.gov/databeam/stephaniefaith/utilization-and-claims">API</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				Development Experience Clearinghouse (DEC)</td>
+			<td class="rtecenter" width="50">
+				<a href="https://dec.usaid.gov/">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_DEC_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/developer/development-experience-clearinghouse-dec-api">API</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Afghanistan</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RAfghanistan2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Afghanistan.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Armenia</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RArmenia2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Armenia.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Asia Regional</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RAsiaRegional2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-AsiaRegional.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Bangladesh</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RBangladesh2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Bangladesh.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Bosnia Herzegovina</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RBosHerz2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-BosHerz.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Democratic Republic Of the Congo</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RDRC2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-DRC.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, El Salvador</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RElSalvador2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-El-Salvador.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Ethiopia</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2REthiopia2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Ethiopia.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Georgia</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RGeorgia2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Georgia.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Ghana</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RGhana2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Ghana.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Guatemala</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RGuatemala2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Guatemala.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Haiti</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RHaiti2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Haiti.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Honduras</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RHonduras2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Honduras.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, India</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RIndia2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-India.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Indonesia</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RIndonesia2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Indonesia.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Iraq</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RIraq2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Iraq.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Jordan</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RJordan2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Jordan.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Kenya</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RKenya2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Kenya.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Kosovo</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RKosovo2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Kosovo.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Liberia</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RLiberia2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Liberia.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Malawi</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RMalawi2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Malawi.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Morocco</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RMorocco2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Morocco.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Mozambique</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RMozambique2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Mozambique.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Nepal</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RNepal2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Nepal.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Nicaragua</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RNicaragua2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Nicaragua.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Nigeria</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RNigeria2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Nigeria.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Peru</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RPeru2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Peru.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Philippines</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RPhilippines2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Philippines.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Rwanda</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RRwanda2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Rwanda.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Senegal</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RSenegal2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Senegal.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, South Sudan</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RSouthSudan2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-South-Sudan.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Tanzania</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RTanzania2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Tanzania.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Timor Leste</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RTimorLeste2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-TimorLeste.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Uganda</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RUganda2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Uganda.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, Ukraine</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RUkraine2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-Ukraine.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Dollars to Results, West Bank Gaza</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/D2RWestBG2012.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/D2R-Metadata-WestBG.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Famine Early Warning System NET Price Volatility Data 2002-2012</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/fewsnet-dataset.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FEWSNET-0212_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				w/ data</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Bangladesh: Baseline Integrated Household Survey</td>
+			<td class="rtecenter" width="50">
+				<a href="/developer/FTFBangladesh">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FTF_Bangladesh_Metdata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				w/ data</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Ghana: Baseline Household Survey</td>
+			<td class="rtecenter" width="50">
+				<a href="/developer/FTFGhana">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FTF-Ghana_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/sites/default/files/USAID_FTF-Ghana_Docs.zip">ZIP</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Malawi: Baseline Household Survey</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/Malawi_CSVs.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/USAID_FTF_Malawi_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Mozambique: Baseline Household Survey</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/Mozambique%202013%20FTF%20ZOI%20PBS  %20Public%20Release
+
+%20Codebook%20-%2020140703.xlsx">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FTF_Mozambique_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Nepal: Baseline Household Survey</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/Nepal_CSVs.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/USAID_FTF_Nepal_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Rwanda: Baseline Household Survey</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/Rwanda_CSVs.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/USAID_FTF_Rwanda_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Uganda: Baseline Household Survey</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/Uganda_CSVs.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FTF-Uganda_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Zambia: Baseline Household Survey</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/Zambia_CSVs.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/USAID_FTF_Zambia_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Feed the Future Monitoring System Aggregate Data 2011-2013</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/opengov/developer/datasets/FtF_Monitoring_CSVs.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FTF_Monitoring_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Foreign Assistance Dashboard</td>
+			<td class="rtecenter" width="50">
+				<a href="http://foreignassistance.gov/" target="_blank">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FAD_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.foreignassistance.gov/web/Developer.aspx">API</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				OpenCities Project</td>
+			<td class="rtecenter" width="50">
+				<a href="http://opencitiesproject.com" target="_blank">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_OpenCities_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				<div>
+					South Sudan Baseline Survey of Agricultural Practices and Household Conditions</div>
+			</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/SouthSudanHouseholdData.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/SouthSudanHouseholdMetaData.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/developer/SouthSudanBaseline">WWW</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				Trade Capacity Building</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/trade_capacity_building.csv" target="_blank">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Trade-Capacity-Building_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Dollars Obligated and Dollars Spent</td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.foreignassistance.gov/web/dataview.aspx">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Dollars-Obligated-Spent_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Environmental Compliance Database</td>
+			<td class="rtecenter" width="50">
+				<a href="http://gemini.info.usaid.gov/egat/envcomp">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/sites/default/files/USAID_Environmental-Compliance-Database_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Forward: Accelerate financial inclusion, improve transparency and catalyze private sector development</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID-Forward-Data-Mobile-Money.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Forward-Financial-Transparency-Private-Sector-
+
+Dev_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf">PDF</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Forward: Focus Strategic Planning</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID-Forward-Data-CDCS.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Forward-Strategic-Planning_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf">PDF</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Forward: Improved decision-making</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID-Forward-Data-Evaluations.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Forward -Improved-Decision-Making_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf">PDF</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Forward: Maximize resources by leveraging commercial private capital</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID-Forward-Data-Development-Credit-Authority.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Forward-Maximize-Resources-Commercial-Private-
+
+Capital_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf">PDF</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Forward: Strengthen and retain best talent</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID-Forward-Data-Mentoring.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Forward-Strengthen-Retain-Talent_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf">PDF</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Forward: Strengthen local capacity</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID-Forward-Data-Local-Solutions.zip">ZIP</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Forward-Strengthened-Local-Capacity_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf">PDF</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Forward: Strengthen staff capacity</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID-Forward-Data-Engagement.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Forward-Strengthen-Staff-Capacity_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf">PDF</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Forward: Scale up and leverage private resources</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID-Forward-Data-Public-Private-Partnerships.csv">CSV</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Forward-Scale-Leverage-Private-Resources_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf">PDF</a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				USAID Public-Private Partnerships Database</td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/DataAnalysis_2014-8-26.xml">XML</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_PPP_Metadata.JSON">JSON</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/PPP%20Dataset%20Background%208.4.14.docx"><u>DOCX</u></a></td>
+		</tr>
+		<tr>
+			<td width="500">
+				U.S. CRS++ Submission to the OECD/DAC CY2009</td>
+			<td class="rtecenter" width="50">
+				<a href="http://usoda.eads.usaidallnet.gov/data/files/us_crs_expanded_2009.xls">XLS</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_CRS-OECDDAC-CY2009_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				U.S. CRS++ Submission to the OECD/DAC CY2010</td>
+			<td class="rtecenter" width="50">
+				<a href="http://usoda.eads.usaidallnet.gov/data/files/us_crs_expanded_2010.xls">XLS</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_CRS-OECDDAC-CY2010_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				U.S. CRS++ Submission to the OECD/DAC CY2011</td>
+			<td class="rtecenter" width="50">
+				<a href="http://usoda.eads.usaidallnet.gov/data/files/us_crs_expanded_2011.xls">XLS</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_CRS-OECDDAC-CY2011_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				U.S. CRS++ Submission to the OECD/DAC CY2012</td>
+			<td class="rtecenter" width="50">
+				<a href="http://usoda.eads.usaidallnet.gov/data/files/us_crs_expanded_2012.xls">XLS</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_CRS-OECDDAC-CY2012_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				U.S. ODA Disbursements by Recipient Country and U.S. Agency</td>
+			<td class="rtecenter" width="50">
+				<a href="http://usoda.eads.usaidallnet.gov/data/files/us_official_development_assistance.xls">XLS</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_ODA-Disbursements-Country_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				U.S. Overseas Loans and Grants (Greenbook)</td>
+			<td class="rtecenter" width="50">
+				<a href="http://gbk.eads.usaidallnet.gov/data/">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Greenbook_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				U.S. Official Development Assistance Database</td>
+			<td class="rtecenter" width="50">
+				<a href="http://usoda.eads.usaidallnet.gov/data/">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_Official-Development-Assistance-Database_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="500">
+				Women&#39;s Empowerment in Agricultural Index: Proof of Concept</td>
+			<td class="rtecenter" width="50">
+				<a href="/developer/WEAI">WWW</a></td>
+			<td class="rtecenter" width="50">
+				<a href="/opengov/developer/datasets/USAID_FTF-Women_Metadata.json">JSON</a></td>
+			<td class="rtecenter" width="50">
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
